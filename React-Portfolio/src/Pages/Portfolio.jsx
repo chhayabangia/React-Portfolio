@@ -2,12 +2,11 @@ import Project from '../components/Project';
 
 const projects = [
   {
-    title: 'Project One',
-    image: '/project1.png',
+    title: 'Emp Tracker',
+    image: '/Users/karanbangia/React-Portfolio/React-Portfolio/Public/Emp Tracker.jpg',
     deployed: 'https://project-one.netlify.app',
-    repo: 'https://github.com/yourname/project-one'
+    repo: 'https://github.com/chhayabangia/Employee-Manager.git'
   },
-  // Add 5 more
 ];
 
 export default function Portfolio() {
