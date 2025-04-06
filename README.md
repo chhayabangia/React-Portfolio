@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is to demonstration of React.
+This project is to demonstration of React where this single page application was built to showcase my web development skills. This portfolio is a platform to display my work.
 
 ## Table of Contents 
 
@@ -18,20 +18,20 @@ Following will be required in this project:
 
 - Cloning of repository
 - Navigating to the provided folder
-- Installing inquirer  and typescript with 'npm i inquirer' in Terminal
+- Installing dependencies
+- Run the Development Server
+- Build for Production
 
 ## Usage
 
-'npm run start' can be used to run 'index.ts'
+Following 'npm istall' and 'npm run dev' can be used to run the development
 
 ## Credits
 
-Collaborated with Instructional staff related Git repository
+Collaborated with fellow colleagues to work on it
 
 ## License
 
 This project is licensed under MIT
 ---
-
-## Video
 
